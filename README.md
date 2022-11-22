@@ -1,6 +1,6 @@
 # Coursework - Finance
 
-- Web-based (flask) 
+<br>- Web-based (flask) 
 <br>- A platform manage portfolios of stocks
 <br>- Getting data from IEX API
 <br>- Account registration, login
