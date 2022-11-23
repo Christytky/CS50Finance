@@ -1,5 +1,7 @@
 # Coursework - Finance
 
+Skills: Flask, HTML, CSS, Javascript, API
+
 * Web-based (flask) 
 * A platform manage portfolios of stocks
 * Getting data from IEX API
