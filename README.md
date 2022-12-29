@@ -1,4 +1,4 @@
-# CS50 Project - Finance
+# CS50 Finance
 
 Skills: Flask, HTML, CSS, Javascript, API
 
