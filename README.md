@@ -1,4 +1,4 @@
-# CS50 Project - Stock Tracking
+# CS50 Project - Finance
 
 Skills: Flask, HTML, CSS, Javascript, API
 
